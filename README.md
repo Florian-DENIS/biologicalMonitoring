@@ -23,6 +23,6 @@ The third tab enables you to compare a specific variable for a selected subject 
 
 The fourth tab allows you to search for correlations between different variables in the analysis. Identifying correlations can provide valuable insights into the relationships between various performance and medical factors.
 
-### 5. Raw data tab
+## Raw data tab
 
 The fifth tab provides a means to visualize the raw data, giving you direct access to the underlying information without any aggregation or transformation.
